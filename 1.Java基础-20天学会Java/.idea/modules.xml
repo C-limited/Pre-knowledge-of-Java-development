@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1、Java基础-20天学会Java.iml" filepath="$PROJECT_DIR$/.idea/1、Java基础-20天学会Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/IO1_作业/IO1_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/IO1_作业/IO1_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/IO2_作业/IO2_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/IO2_作业/IO2_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day01-Java概述、IDEA、Java基础语法/day01-Java概述、IDEA、Java基础语法.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day01-Java概述、IDEA、Java基础语法/day01-Java概述、IDEA、Java基础语法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day01、static、单例、代码块、继承/day01、static、单例、代码块、继承.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day01、static、单例、代码块、继承/day01、static、单例、代码块、继承.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day01作业/day01作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day01作业/day01作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day02、面向对象进阶（包、权限修饰符、final、常量、枚举、抽象类、接口）/代码/day02-oop-demo/day02-oop-demo.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day02、面向对象进阶（包、权限修饰符、final、常量、枚举、抽象类、接口）/代码/day02-oop-demo/day02-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day02-数据类型、运算符、API介绍、键盘录入/day02-数据类型、运算符、API介绍、键盘录入.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day02-数据类型、运算符、API介绍、键盘录入/day02-数据类型、运算符、API介绍、键盘录入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day02作业/day02作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day02作业/day02作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day03-程序流程控制、Random类/day03-程序流程控制、Random类.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day03-程序流程控制、Random类/day03-程序流程控制、Random类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day03、面向对象进阶（多态、内部类、常用API）/day03、面向对象进阶（多态、内部类、常用API）.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day03、面向对象进阶（多态、内部类、常用API）/day03、面向对象进阶（多态、内部类、常用API）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day03作业/day03作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day03作业/day03作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day04-数组、Debug/day04-数组、Debug.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day04-数组、Debug/day04-数组、Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day04、常用API（常用API、正则表达式、Lambda、算法）/day04、常用API（常用API、正则表达式、Lambda、算法）.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day04、常用API（常用API、正则表达式、Lambda、算法）/day04、常用API（常用API、正则表达式、Lambda、算法）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day04作业/day04作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day04作业/day04作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day05-方法/day05-方法.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day05-方法/day05-方法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day05、集合（Collection、数据结构、List、泛型深入/day05、集合（Collection、数据结构、List、泛型深入.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day05、集合（Collection、数据结构、List、泛型深入/day05、集合（Collection、数据结构、List、泛型深入.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day05作业/day05作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day05作业/day05作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day06-编程思维和编程能力、综合应用专题课/day06-编程思维和编程能力、综合应用专题课.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day06-编程思维和编程能力、综合应用专题课/day06-编程思维和编程能力、综合应用专题课.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day06、集合（Set、Collections、Map、集合嵌套）/day06、集合（Set、Collections、Map、集合嵌套）.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day06、集合（Set、Collections、Map、集合嵌套）/day06、集合（Set、Collections、Map、集合嵌套）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day06作业/day06作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day06作业/day06作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day07-面向对象基础/day07-面向对象基础.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day07-面向对象基础/day07-面向对象基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day07、 不可变集合、Stream、异常/day07、 不可变集合、Stream、异常.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day07、 不可变集合、Stream、异常/day07、 不可变集合、Stream、异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day07作业/day07作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day07作业/day07作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day08-常用API(String、ArrayList)/day08-常用API(String、ArrayList).iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day08-常用API(String、ArrayList)/day08-常用API(String、ArrayList).iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day08、日志框架、阶段项目/day08、日志框架、阶段项目.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day08、日志框架、阶段项目/day08、日志框架、阶段项目.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day09-ATM系统/day09-ATM系统.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day09-ATM系统/day09-ATM系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day09_作业/day09_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day09_作业/day09_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day09、File、递归、IO流(一)/day09、File、递归、IO流(一).iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day09、File、递归、IO流(一)/day09、File、递归、IO流(一).iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day10-阶段总结、下阶段课程介绍（必看）/day10-阶段总结、下阶段课程介绍（必看）.iml" filepath="$PROJECT_DIR$/最新JavaSE零基础快速入门9天/day10-阶段总结、下阶段课程介绍（必看）/day10-阶段总结、下阶段课程介绍（必看）.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day10_作业/day10_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day10_作业/day10_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day10、IO流二/day10、IO流二.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day10、IO流二/day10、IO流二.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day11、多线程/day11、多线程.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day11、多线程/day11、多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day12、网络编程/day12、网络编程.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day12、网络编程/day12、网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day13_作业/day13_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day13_作业/day13_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day13、Java高级技术：单元测试、反射、注解/day13、Java高级技术：单元测试、反射、注解.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day13、Java高级技术：单元测试、反射、注解/day13、Java高级技术：单元测试、反射、注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day14_作业/day14_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day14_作业/day14_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day14、XML、解析、设计模式等/day14、XML、解析、设计模式等.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day14、XML、解析、设计模式等/day14、XML、解析、设计模式等.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day15_作业/day15_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day15_作业/day15_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day16_作业/day16_作业.iml" filepath="$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day16_作业/day16_作业.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新JavaSE基础加强课程14天/day02、面向对象进阶（包、权限修饰符、final、常量、枚举、抽象类、接口）/代码/oop-app2/oop-app2.iml" filepath="$PROJECT_DIR$/最新JavaSE基础加强课程14天/day02、面向对象进阶（包、权限修饰符、final、常量、枚举、抽象类、接口）/代码/oop-app2/oop-app2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit4框架jar包">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day13、Java高级技术：单元测试、反射、注解/资料/junit4框架jar包/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day13、Java高级技术：单元测试、反射、注解/资料/junit4框架jar包/junit-4.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5de7a91-62e3-4f0c-b389-7459e7f29b2b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K90uu0QjP7q9yiE0aqNS7rpnKf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/程序设计/Blog/2.JavaWeb-资料/day03-JDBC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Dom4JHelloWorldDemo1">
+    <configuration name="AnnotationDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d8_annotation.AnnotationDemo1" />
+      <module name="day13、Java高级技术：单元测试、反射、注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d8_annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnnotationDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d8_annotation.AnnotationDemo2" />
+      <module name="day13、Java高级技术：单元测试、反射、注解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d8_annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d1_static.Student" />
+      <module name="day01、static、单例、代码块、继承" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d1_static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dom4JHelloWorldDemo1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day14、XML、解析、设计模式等" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d1_dom4j.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.d1_dom4j" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d1_dom4j.Dom4JHelloWorldDemo1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dom4JTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day14、XML、解析、设计模式等" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d1_dom4j.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.d1_dom4j" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d1_dom4j.Dom4JTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Dom4JHelloWorldDemo1" />
+        <item itemvalue="JUnit.Dom4JTest2" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.AnnotationDemo2" />
+        <item itemvalue="Application.AnnotationDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5de7a91-62e3-4f0c-b389-7459e7f29b2b" name="Changes" comment="" />
+      <created>1673371716423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673371716423</updated>
+      <workItem from="1675091935974" duration="1303000" />
+      <workItem from="1675352369047" duration="1210000" />
+      <workItem from="1675508013523" duration="6000" />
+      <workItem from="1676729436891" duration="2770000" />
+      <workItem from="1676946981687" duration="5630000" />
+      <workItem from="1677126031137" duration="8912000" />
+      <workItem from="1677162640602" duration="15000" />
+      <workItem from="1690633382378" duration="176000" />
+      <workItem from="1690647109424" duration="475000" />
+      <workItem from="1690721327006" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

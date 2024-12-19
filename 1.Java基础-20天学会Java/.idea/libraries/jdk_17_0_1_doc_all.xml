@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-17.0.1_doc-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2、API文档（JDK 17、JDK 11）/jdk-17.0.1_doc-all.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

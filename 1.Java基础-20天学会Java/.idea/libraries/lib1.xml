@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day16_作业/02_代码/tests/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/4、课程练习题参考（可不做）/基础加强阶段练习题参考（参考练习，偏难，可做上课案例，可不做此练习）/day16_作业/02_代码/tests/lib/lombok-1.18.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
