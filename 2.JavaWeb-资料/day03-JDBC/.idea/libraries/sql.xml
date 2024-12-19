@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/资料/2. sql注入演示/sql.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

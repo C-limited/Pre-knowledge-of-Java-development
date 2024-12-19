@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web16">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/docs/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/docs" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web15">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-servletsecurity2/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-servletsecurity2" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web18">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web17">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.4/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.4" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web19">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-fragments-empty-absolute-ordering/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-fragments-empty-absolute-ordering" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web5">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.2/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.2" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-3.0/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-3.0" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web7">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-servletsecurity/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-servletsecurity" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web10">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.3/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.3" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web6">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/conf/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/conf" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web9">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/examples/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/examples" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web12">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/ROOT/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/ROOT" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web8">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/docs/appdev/sample/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/docs/appdev/sample/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web11">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-3.1/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-3.1" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web14">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-virtual-webapp/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-virtual-webapp/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web13">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-fragments/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-fragments" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/host-manager/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/webapps/host-manager" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.5/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/day08-HTTP&amp;Tomcat&amp;Servlet/资料/2. Tomcat/tomcat源码/apache-tomcat-8.5.68-src/test/webapp-2.5" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
